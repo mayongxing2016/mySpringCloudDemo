@@ -1,0 +1,6 @@
+com\test\sc\Demo_test_8001.class
+com\test\sc\controller\DeptController.class
+com\test\sc\dao\DeptDao.class
+com\test\sc\service\DeptService.class
+com\test\sc\entities\Dept.class
+com\test\sc\service\impl\DeptServiceImpl.class

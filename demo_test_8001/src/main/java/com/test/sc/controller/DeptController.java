@@ -22,6 +22,7 @@ public class DeptController {
     @RequestMapping(value="/get/{id}", method = RequestMethod.GET)
     public Dept get(@PathVariable Long id){
         System.out.println("sddd");
+
         return deptService.get(id);
     }
 
