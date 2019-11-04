@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="890c4cb2-c3e8-45f4-a8a9-29f951a40c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo_test_8001/demo_test_8001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo_test_8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/src/main/java/com/test/sc/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo_test_8001/src/main/java/com/test/sc/controller/DeptController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/target/classes/aplication.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/target/classes/com/test/sc/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo_test_8001/target/classes/com/test/sc/controller/DeptController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/target/classes/mapper/test.sc/deptMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_test_8001/target/classes/mybatis.cfg.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/democore/democore.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/democore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/democore/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/democore/target/classes/com/test/springcloud/entities/Dept.class" beforeDir="false" afterPath="$PROJECT_DIR$/democore/target/classes/com/test/springcloud/entities/Dept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/democore/target/democore-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/democore/target/democore-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/democore/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/democore/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +174,7 @@
       <workItem from="1572774480272" duration="644000" />
       <workItem from="1572775174843" duration="16320000" />
       <workItem from="1572867707020" duration="6494000" />
-      <workItem from="1572876969683" duration="1489000" />
+      <workItem from="1572876969683" duration="2536000" />
     </task>
     <servers />
   </component>
